@@ -79,6 +79,14 @@ crop-recommendation/
 - Pandas
 
 ---
+## Screenshot 
+
+
+```markdown
+![App Screenshot](screenshot.png)
+```
+
+---
 
 
 
